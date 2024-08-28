@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-The Embedded Deep Learning and Visual Analysis Laboratory relies on several national and Shanghai key laboratories of the School of Information Science and Engineering of Fudan University, and focuses on the research and development of various deep learning algorithms for mobile, edge or chipset ASIC-level platforms. These algorithms are applied but not limited to: object detection, object classification, scene analysis, 3D reconstruction, and object tracking applications, and play an important role in various scenarios such as smart homes, smart cities, medical AI, ADAS and security monitoring that are closely related to society and people’s everyday life.
+We focuse on the research and development of various deep learning algorithms for mobile, edge or chipset ASIC-level platforms. These algorithms are applied but not limited to: object detection, object classification, scene analysis, 3D reconstruction, and object tracking applications, and play an important role in various scenarios such as smart homes, smart cities, medical AI, ADAS and security monitoring that are closely related to society and people’s everyday life.
 
 Currently, the lab is focusing on several research fields including but not limited to:
 
