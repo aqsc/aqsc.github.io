@@ -16,7 +16,7 @@ redirect_from:
 
 - senior chip&Alg Manager
 
-- **Office**: /Shenzhen city/Shanghai city, 200438, China.
+- **Office**: Shenzhen city/Shanghai city, 200438, China.
 
 - **Tel**: 021-xxxxxxxx
 
@@ -43,11 +43,11 @@ Dr. Sicheng Qian, xxxxxx. To date, he has granted over 10 PCT patents.
 
 # News
 
-**2024.07** We have four papers accepted by the Proceedings of the European Conference on Computer Vision (ECCV) in 2024, focusing on 3D Assistant with Multi-modal Instructions, Test Time 3D Detection Adaptation, Network Sparsification via Stimulative Training, and Motion Controllers via Multimodal Prompts.
+**2024.07** We have focused on the frame super resolution algos for high quality image quality, and 3D scene interaction & undertanding in embodied intelligence. 
 
 **Jan,2022-Now**: lead project and team on 3D scene reconstruct, like NeRF learning, 3DGS, and graph learning in Smart Factory. We will release the first robot product. Expecting!!!
 
-**Jan,2022-Now**: We are in research of Differentiable ISP and tackle with Differentiable CV.
+**Jan,2022-Now**: We are in research of Differentiable ISP and tackle with Differentiable CV. We also design the hardware ISP on chip, which is very competitive in area and performance. Through the differential ISP and CV design, we can trackle with the extremely difficult scenarios with the better visual detection performance. 
 
 **Jan,2022-Now**: focus on NAS, distiller, quantization and other lightweight model techinique, few shot/semi-supervised learning methods, and so on in more areas and accumulate more experience on generic AI algos.
 
