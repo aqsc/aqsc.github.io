@@ -19,6 +19,6 @@ redirect_from:
 
 - E-mail: figurebar@hotmail.com
 
-<a href="{{ base_path }}/files/Resume_Chen Tao_English.pdf">
+<a href="{{ base_path }}/files/Resume_ _English.pdf">
 <img src="{{ base_path }}/images/Resume.png" style="width: 100%; margin-right: -20px; margin-top: 0px; border: 1px solid rgba(0, 0, 0, 0.125); border-radius: 5px;">
 </a>
