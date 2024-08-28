@@ -1,0 +1,23 @@
+{% include base_path %} {% if include.id %} {% assign feature_row =
+page.[include.id] %} {% else %} {% assign feature_row = page.feature_row %} {%
+endif %}
+
+<table class="styled-table">
+  {% for f in feature_row %} {% if f.url contains "://" %} {% capture f_url %}{{
+    f.url
+  }}{% endcapture %} {% else %} {% capture f_url %}{{
+    f.url | prepend : base_path
+  }}{% endcapture %} {% endif %}
+
+  <tr>
+    <td>
+      <a>{{ f.title }}</a>
+    </td>
+    {% if f.year %}
+    <td>{{ f.year }}</td>
+    {% endif %}
+    <td>{{ f.excerpt | markdownify }}</td>
+  </tr>
+
+  {% endfor %}
+</table>

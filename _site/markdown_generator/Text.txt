@@ -1,0 +1,51 @@
+26. Bicheng Guo, Tao Chen, Shibo He, Haoyu Liu, Lilin Xu, Peng Ye, Jiming Chen."Generalized Global Ranking-Aware Neural Architecture Ranker for Efficient Image Classifier Search", in press, ACM MM, 2022.
+
+25. B. Zhang, J. Yuan, B. Li, T. Chen, J. Fan, B. Shi. "Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification", in press, ACM MM, 2022.
+
+24. P. Ye, B. Li, Y. Li, T. Chen, J. Fan, W. Ouyang, “Beta-decay regularization for differentiable architecture search,” Proc. of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR oral), in press, 2022.
+
+23. C. Ye, H. Zhu, Y. Liao, Y. Zhang, T. Chen, J. Fan.  "What Makes for Effective Few-shot Point Cloud Classification",in press, IEEE Winter Conference on Applications of Computer Vision (WACV), 2022.
+
+22. Y. Wu, B. Zhang, G. Yu, W. Zhang, B. Wang, T. Chen, J. Fan, "Object-aware Long-short-range Spatial Alignment for Few-Shot Fine-Grained Image Classification", in press, ACM MM, 2021.
+
+21.W. Fan, J. Fan, G. Yu, B. Fu, T. Chen, “HSEGAN: Hair Synthesis and Editing using Structure-Adaptive Normalization on Generative Adversarial Network,” in press, IEEE International Conference on Image Processing (ICIP), 2021.
+
+20.Y. Liao, H. Zhu, T. Chen, J. Fan, "SPCR: Semi-supervised point cloud instance segmentation with perturbation consistency regularization," in press, IEEE International Conference on Image Processing (ICIP), 2021.
+
+19.Q. Yang, T. Chen, J. Fan, Y. Lu, C. Zuo, Q. Chi, “EADNET: Efficient Asymmetric Dilated Network For Semantic Segmentation,” in press, IEEE ICASSP, 2021.
+
+18. J. Chen, J. Zhang, E. Sangineto, T. Chen, F. Jia, N. Cebe, “Coarse-to-Fine Gaze Redirection with Numerical and Pictorial Guidance,” in press, IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.
+
+17. J. Sun, J. Chen, T. Chen, J. Fan, S. He, “PIDNet: An Efficient Network for Dynamic Pedestrian Intrusion Detection,” in press, ACM Conference on Multimedia (ACM MM), Seattle, Washington, USA, 2020.
+
+16. R. Wu,  G. Zhang, S. Lu, T. Chen, ”Cascade EF-GAN: Progressive Facial Expression Editing with Local Focuses,” IEEE Internatonal Conference on Computer Vision and Pattern Recognition (CVPR, Oral), Seattle, Washington, 2020.
+
+15. W. Wang, Q. Sun, Y.Fu, T. Chen, C. Cao, Z. Zheng, G. Xu, H. Qiu, Y. Jiang and X. Xue, ”Comp-GAN: Compositional Generative Adversarial Network in Synthesizing and Recognizing Facial Expression,” ACM International Conference on Multimedia (ACM MM), Nice, France, 2019.
+
+14. J.Fan, T. Chen, S. Lu,  “Vegetation Coverage Detection from Very High Resolution Satellite Imagery,” IEEE International Conference on Visual Communications and Image Processing (VCIP), Accpeted, Singapore, Sep. 2015.
+
+13. J.Fan, T. Chen, ”Reversible Watermarking Using Enhanced Local Prediction,” IEEE International Conference on Image Processing (ICIP), In press, Sep. 2015.
+
+12. J.W. CAO, Y.F.ZHAO, X.P. LAI, T.Chen, ‘Landmark Recognition via Sparse Representation,” IEEE International Conference on Digital Signal Processing (DSP), In press, 2015.
+
+11. J.FAN, T.CHEN and J.W.Cao, ”Image Tampering Detection Using Noise Histogram Features,“ IEEE International Conference on Digital Signal Processing (DSP), In press, 2015.
+
+10. T. Chen, S. Lu, “DPM REVISITED: Utilizing Root-Part Spatial Distribution For Vehicle Viewpoint Estimation,” IEEE International Conference on Image Processing (ICIP), In press, Sep. 2015.
+
+9. T. Chen, S. Lu, “Context-Aware Lane Marking Detection On Urban Roads,” IEEE International Conference on Image Processing (ICIP), In press, Sep. 2015.
+
+8. T. Chen, J. Y. Fan, S. Lu, “Context-aware codebook learning for landmark recognition,” IEEE International Conference on Image Processing (ICIP), In press, Oct. 2014.
+
+7. J.W. Cao, T. Chen, J. Y. Fan, ”Fast Online Learning Algorithm for Landmark Recognition based on BoW Framework,” IEEE Conference on Industrial and Electronics Applications (ICIEA), 2014.
+
+6. T. Chen, K.- H. Yap,  ”‘Discriminative Bag-of-Visual Phrase Learning for Landmark Recognition”,  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP, Oral Presentation), In Press,Kyoto, Japan, Mar. 2012.
+
+5. T. Chen, K.-H. Yap, and L.-P. Chau, “Content and Context Information Fusion for Mobile Landmark Recognition”,  accepted for publication in 2011 International Conference on Information, Communications and Signal Processing (ICICS), Singapore.
+
+4. T. Chen, K.- H. Yap, L.-P. Chau, “From Universal Bag-of-Words to Adaptive Bag-of-Phrase for Scene Recognition”,  IEEE International Conference on Image Processing (ICIP), pp.841-884,, Russell, Belgium, Sep. 2011.
+
+3. T. Chen, K.- H. Yap, L.-P. Chau, “A Discriminative Learning Approach for Mobile Landmark Recognition”,  IEEE International Conference on Image Processing (ICIP), pp. 217-220, Russell, Belgium, Sep. 2011.
+
+2. T. Chen, Z. Li, K.-H. Yap, K. Wu, and L.-P. Chau, “A Multi-scale Learning Approach for Landmark Recognition Using Mobile Devices,” accepted for publication in 2009 International Conference on Information,   Communications and Signal Processing (ICICS), Macau.
+
+1. T. Chen, K. Wu, K.-H. Yap, Z. Li, and F. S. Tsai, “A Survey on Mobile Landmark Recognition for Information Retrieval Systems,” 2009 MDM International Workshop on Mobile Media Retrieval, Taipei, Taiwan, May 2009.
