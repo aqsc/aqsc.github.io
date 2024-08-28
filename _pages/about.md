@@ -43,20 +43,20 @@ Dr. Sicheng Qian, xxxxxx. To date, he has granted over 10 PCT patents.
 
 # News
 
-**2024.07** We have four papers accepted by the Proceedings of the European Conference on Computer Vision (ECCV) in 2024, focusing on 3D Assistant with Multi-modal Instructions, Test Time 3D Detection Adaptation, Network Sparsification via Stimulative Training, and Motion Controllers via Multimodal Prompts.
+<li>**2024.07** We have four papers accepted by the Proceedings of the European Conference on Computer Vision (ECCV) in 2024, focusing on 3D Assistant with Multi-modal Instructions, Test Time 3D Detection Adaptation, Network Sparsification via Stimulative Training, and Motion Controllers via Multimodal Prompts.</li>
 
 
-**Jan,2022-Now**: lead project and team on 3D scene reconstruct, like NeRF learning, 3DGS, and graph learning in Smart Factory.
-		    We will release the first robot product. Expecting!!!
-**Jan,2022-Now**: We are in research of Differentiable ISP and tackle with Differentiable CV.
-**Jan,2022-Now**: focus on NAS, distiller, quantization and other lightweight model techinique, few shot/semi-supervised learning methods, and so on in more areas and accumulate more experience on generic AI algos.
-**Jan,2022-Now**: lead project and team on 3D obstacle detection in BEV, HD map construction, Lane topology learning, General Obstacle Detection(occupancy) in ADS.
-**Jan,2022-Now**: focus on screen touch algothms, signal processing methods including SIN/COS demodulation, TDM/CDM matrix , CIC, FIR, IQ to improve SNR performance in HiSi, Huawei.
-**Jan,2020-2022**: lead project and team on human-machine interactions in XR, smart TV, smart Camera, which have been applied to many products, like Huawei Smart TV, XR product.
-		    We have exploited the system of human-machine interaction which is very robust in single camera architure, and more robuster and smoother in dual-camera architecture. 
+<li>**Jan,2022-Now**: lead project and team on 3D scene reconstruct, like NeRF learning, 3DGS, and graph learning in Smart Factory.
+		    We will release the first robot product. Expecting!!!</li>
+<li>**Jan,2022-Now**: We are in research of Differentiable ISP and tackle with Differentiable CV.</li>
+<li>**Jan,2022-Now**: focus on NAS, distiller, quantization and other lightweight model techinique, few shot/semi-supervised learning methods, and so on in more areas and accumulate more experience on generic AI algos.</li>
+<li>**Jan,2022-Now**: lead project and team on 3D obstacle detection in BEV, HD map construction, Lane topology learning, General Obstacle Detection(occupancy) in ADS.</li>
+<li>**Jan,2022-Now**: focus on screen touch algothms, signal processing methods including SIN/COS demodulation, TDM/CDM matrix , CIC, FIR, IQ to improve SNR performance in HiSi, Huawei.</li>
+<li>**Jan,2020-2022**: lead project and team on human-machine interactions in XR, smart TV, smart Camera, which have been applied to many products, like Huawei Smart TV, XR product.
+		    We have exploited the system of human-machine interaction which is very robust in single camera architure, and more robuster and smoother in dual-camera architecture. </li>
 		    The hand pose estimation can be on par with google's mediapipe&meta's Utrack, while it is more lighter weight than mediapipe & Utrack. 
-		    And we also apply the human pose estimation into the smart Camera which can moniter elders' falling and smart TV which is more preferable to youngsters' body fitting.
-**2020-Now**: focus on the NPU development of Davinci Architecture. And exploit more algos and products based on Davinci. More detials to come soon.
+		    And we also apply the human pose estimation into the smart Camera which can moniter elders' falling and smart TV which is more preferable to youngsters' body fitting.</li>
+<li>**2020-Now**: focus on the NPU development of Davinci Architecture. And exploit more algos and products based on Davinci. More detials to come soon.</li>
 		  <li>August,2019-now: lead project and team on Object detection and Recognition & semantic segmentation & instance segmentation in consumer products on HI3796CV300/3556V200/3519AV100/3516DV300.</li>
 		  <li>October,2017-August,2019: Pedestrian detection & Face detection in smart security camera in Hi3516EV200/Hi3516EV300/Hi3518EV300.
 			  We are the first pioneer to develop the AI network on the chip in this field.
