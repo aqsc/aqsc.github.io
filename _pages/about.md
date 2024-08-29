@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-- 钱思成 Sicheng Qian 
+- 钱 思 成 Sicheng Qian 
 
 - **Research field**: Computer Graphics and Image Processing.
 
