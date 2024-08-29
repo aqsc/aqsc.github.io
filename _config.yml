@@ -211,7 +211,7 @@ defaults:
   # _teaching
   - scope:
       path: ''
-      type: projection
+      type: projects
     values:
       layout: single
       author_profile: true
