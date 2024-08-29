@@ -7,14 +7,14 @@
 
 # Site Settings
 locale: 'zh-CN'
-title: 'EDLAB'
+title: 'VISUAL'
 title_separator: '-'
-name: &name 'EDLAB'
-description: &description 'Embedded Deep Learning and Visual Analysis Lab'
-url: 'https://eetchen.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: &name 'Visual Processing and Understanding'
+description: &description 'Visual Processing and Understanding'
+url: 'https://aqsc.github.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url: 'http://127.0.0.1:4000'
 baseurl: '' # the subpath of your site, e.g. "/blog"
-repository: 'eetchen/eetchen.github.io'
+repository: 'aqsc/aqsc.github.io'
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -79,18 +79,18 @@ analytics:
 
 # Site Author
 author:
-  name: 'Tao Chen 陈涛'
-  avatar: 'profile.png'
-  bio: 'Professor (Tenured)'
+  name: 'Sicheng Qian'
+  avatar: 'bear_drink.webp'
+  bio: 'Senior Architect'
   location: 'Shanghai, China'
-  employer: 'Fudan University'
-  email: eetchen@fudan.edu.cn
-  tel: 021-31242503
+  employer: 'Company'
+  email: figurebar@hotmail.com
+  tel: 021-xxxxxxxxx
 
   pubmed: # 'https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow'
   googlescholar: # 'http://yourfullgooglescholarurl.com'
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
-  uri: http://www.it.fudan.edu.cn/Data/View/2989
+  uri: http://www.github.com/aqsc
   bitbucket:
   codepen:
   dribbble:
@@ -172,9 +172,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -208,10 +208,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _projects
   - scope:
       path: ''
-      type: teaching
+      type: projects
     values:
       layout: single
       author_profile: true
