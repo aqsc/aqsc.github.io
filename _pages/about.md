@@ -12,9 +12,9 @@ redirect_from:
 
 - Sicheng Qian 钱思成
 
-- Phd
+- **Research field**: Computer Graphics and Image Processing.
 
-- senior chip&Alg Manager
+- **Title**: Senior Chip&Alg Researcher
 
 - **Office**: Shenzhen city/Shanghai city, 200438, China.
 
@@ -22,7 +22,7 @@ redirect_from:
 
 - **E-mail**: figurebar@hotmail.com
 <p class='intro'>
-Dr. Sicheng Qian, xxxxxx. To date, he has granted over 10 PCT patents.
+Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. To date, he has granted over 10 PCT patents.
 </p>
 <style type="text/css" rel="stylesheet">
 .intro { 
