@@ -208,7 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _projects
   - scope:
       path: ''
       type: projects
