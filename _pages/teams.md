@@ -31,12 +31,3 @@ feature_row_alumi_ms:
 
 {% include feature_row id="feature_row_ms"%}
 
-# Alumni
-
-## Ph.D. Students
-
-{% include feature_row_single id="feature_row_alumi_phd"%}
-
-## Master students
-
-{% include feature_row_single id="feature_row_alumi_ms"%}
