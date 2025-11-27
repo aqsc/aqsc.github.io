@@ -14,7 +14,7 @@ redirect_from:
 
 - **Research field**: Computer Graphics and Image Processing.
 
-- **Title**: Senior Chip&Alg Researcher
+- **Title**:  Algorithm & Chip Director
 
 - **Office**: Shenzhen city/Shanghai city, 200438, China.
 
