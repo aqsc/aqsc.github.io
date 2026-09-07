@@ -66,7 +66,7 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
                 border-bottom: 1px solid #d9d9d9;
                 padding: 2px;
             ">
-                Research in Embodied Manipulation
+                Research in 3D Scenario Perception, Understanding and Action
             </div>
         </div>
     </div>
@@ -99,7 +99,7 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
                 border-bottom: 1px solid #d9d9d9;
                 padding: 2px;
             ">
-                Research in 3D Scenario Perception, Understanding and Action
+                Research in Embodied Manipulation
             </div>
         </div>
     </div>
