@@ -61,7 +61,7 @@ The hand pose estimation can be on par with google's mediapipe&meta's Utrack, wh
  
 **2020-Now**: focus on the NPU development of Davinci Architecture. And exploit more algos and products based on Davinci. More detials to come soon.
 
-**August,2019-now**: lead project and team on Object detection and Recognition & semantic segmentation & instance segmentation in consumer products on HI3796CV300/3556V200/3519AV100/3516DV300.
+**August,2019-now**: lead project and team on Object detection and Recognition & semantic segmentation & instance segmentation in consumer products on series of edge chips，include but not only HI3796CV300、Hi3556V200、Hi3519AV100、Hi3516DV300，Hi3559AV.
 
 **October,2017-August,2019**: Pedestrian detection & Face detection in smart security camera in Hi3516EV200/Hi3516EV300/Hi3518EV300.
 			  We are the first pioneer to develop the AI network on the chip in this field.
