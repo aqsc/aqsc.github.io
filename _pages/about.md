@@ -141,7 +141,7 @@ Focus on the development of the **Da Vinci NPU architecture**, while exploring a
 Lead projects and teams on **object detection and recognition, semantic segmentation, and instance segmentation** for consumer products across a series of edge AI chips, including but not limited to **HI3796CV300, Hi3556V200, Hi3519AV100, Hi3516DV300, and Hi3559AV**.
 
 **Oct. 2017 – Aug. 2019**
-Worked on **pedestrian detection and face detection** for smart security cameras based on **Hi3516EV200, Hi3516EV300, and Hi3518EV300**. We were among the pioneers in deploying AI networks directly on chips for this field.
+Worked on **pedestrian detection and face detection and recognition** for smart security cameras based on **Hi3516EV200, Hi3516EV300, and Hi3518EV300**. We were among the pioneers in deploying AI networks directly on chips for this field.
 
 Our algorithms achieved industry-leading performance and helped drive these products to leading positions in the global market. The resulting chips and algorithms were widely adopted by customers including **Huawei, Hikvision, Dahua, Uniview, Infinova, and Topsee**. It was particularly rewarding to see the technology widely recognized and adopted by customers worldwide.
 
