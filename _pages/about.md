@@ -31,38 +31,57 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
     }
 </style>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    width: 100%;
+	">
 
-    <div style="width: 48%; text-align: center;">
+	<div style="
+        width: 45%;
+        text-align: center;
+    ">
         <img style="
+            width: 100%;
             border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),
                         0 2px 10px 0 rgba(34,36,38,.08);
-            width: 100%;
-        " src="{{ base_path }}/images/research_174.png">
+        "
+        src="{{ base_path }}/images/research_174.png">
+
         <br>
+
         <div style="
-            border-bottom: 1px solid #d9d9d9;
             display: inline-block;
             color: #999;
+            border-bottom: 1px solid #d9d9d9;
             padding: 2px;
         ">
             Research in Embodied Manipulation
         </div>
     </div>
 
-    <div style="width: 48%; text-align: center;">
+
+    <div style="
+        width: 45%;
+        text-align: center;
+    ">
         <img style="
+            width: 100%;
             border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),
                         0 2px 10px 0 rgba(34,36,38,.08);
-            width: 100%;
-        " src="{{ base_path }}/images/research_173.jpg">
+        "
+        src="{{ base_path }}/images/research_173.jpg">
+
         <br>
+
         <div style="
-            border-bottom: 1px solid #d9d9d9;
             display: inline-block;
             color: #999;
+            border-bottom: 1px solid #d9d9d9;
             padding: 2px;
         ">
             Research in 3D Scenario Perception, Understanding and Action
