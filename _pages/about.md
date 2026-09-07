@@ -31,6 +31,46 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
     }
 </style>
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+    <div style="width: 48%; text-align: center;">
+        <img style="
+            border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),
+                        0 2px 10px 0 rgba(34,36,38,.08);
+            width: 100%;
+        " src="{{ base_path }}/images/research_174.png">
+        <br>
+        <div style="
+            border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;
+        ">
+            Research in Embodied Manipulation
+        </div>
+    </div>
+
+    <div style="width: 48%; text-align: center;">
+        <img style="
+            border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),
+                        0 2px 10px 0 rgba(34,36,38,.08);
+            width: 100%;
+        " src="{{ base_path }}/images/research_173.jpg">
+        <br>
+        <div style="
+            border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;
+        ">
+            Research in 3D Scenario Perception, Understanding and Action
+        </div>
+    </div>
+
+</div>
+
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08); width:50%;" 
@@ -39,7 +79,7 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">research in Embodied manipulation</div>
+    padding: 2px;">Research in Embodied manipulation</div>
 </center>
 
 <center>
@@ -50,12 +90,13 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">research in 3D scnenario understanding</div>
+    padding: 2px;">Research in 3D scenario perception，understanding and action</div>
 </center>
 
 # News
 
 **2024.07** We have focused on the frame super resolution algos for high quality image quality, and 3D scene interaction & undertanding in embodied intelligence. 
+
 
 **Jan,2022-Now**: lead project and team on 3D scene reconstruct, like NeRF learning, 3DGS, and graph learning in Smart Factory. We will release the first robot product. Expecting!!!
 
