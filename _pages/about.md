@@ -37,58 +37,75 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
     align-items: flex-start;
     gap: 30px;
     width: 100%;
-	">
+">
 
-	<div style="
-        width: 45%;
-        text-align: center;
-    ">
-        <img style="
-            width: 100%;
-            border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),
-                        0 2px 10px 0 rgba(34,36,38,.08);
-        "
-        src="{{ base_path }}/images/research_174.png">
-
-        <br>
-
-        <div style="
-            display: inline-block;
-            color: #999;
-            border-bottom: 1px solid #d9d9d9;
-            padding: 2px;
-        ">
-            Research in Embodied Manipulation
-        </div>
-    </div>
-
-
+    <!-- Image 1 -->
     <div style="
         width: 45%;
         text-align: center;
     ">
         <img style="
             width: 100%;
+            height: 300px;
+            object-fit: contain;
+            border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),
+                        0 2px 10px 0 rgba(34,36,38,.08);
+        "
+        src="{{ base_path }}/images/research_174.png">
+
+        <div style="
+            height: 45px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        ">
+            <div style="
+                display: inline-block;
+                color: #999;
+                border-bottom: 1px solid #d9d9d9;
+                padding: 2px;
+            ">
+                Research in Embodied Manipulation
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Image 2 -->
+    <div style="
+        width: 45%;
+        text-align: center;
+    ">
+        <img style="
+            width: 100%;
+            height: 300px;
+            object-fit: contain;
             border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),
                         0 2px 10px 0 rgba(34,36,38,.08);
         "
         src="{{ base_path }}/images/research_173.jpg">
 
-        <br>
-
         <div style="
-            display: inline-block;
-            color: #999;
-            border-bottom: 1px solid #d9d9d9;
-            padding: 2px;
+            height: 45px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         ">
-            Research in 3D Scenario Perception, Understanding and Action
+            <div style="
+                display: inline-block;
+                color: #999;
+                border-bottom: 1px solid #d9d9d9;
+                padding: 2px;
+            ">
+                Research in 3D Scenario Perception, Understanding and Action
+            </div>
         </div>
     </div>
 
 </div>
+
 
 <center>
     <img style="border-radius: 0.3125em;
