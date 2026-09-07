@@ -13,11 +13,11 @@ redirect_from:
 
 - 钱 思 成 Sicheng Qian 
 
-- **Research field**: Computer Graphics and Image Processing.
+- **Research field**: Computer Graphics and Image Processing，Embodied Intelligence，AI on edges.
 
 - **Title**:  Algorithm & Chip Director
 
-- **Office**: Shenzhen city/Shanghai city, 200438, China.
+- **Office**: Shenzhen city.518000/Shanghai city, 200438, China.
 
 - **Tel**: 021-xxxxxxxx
 
