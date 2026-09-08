@@ -137,7 +137,7 @@ Focus on **touch-screen algorithms and signal processing**, including SIN/COS de
 **Jan. 2020 – 2022**
 Led projects and teams on **human-machine interaction (HMI)** for XR, smart TV, and smart camera products. These technologies have been deployed in products including Huawei Smart TV and XR devices.
 
-We developed a robust **single-camera HMI system** and further improved its robustness and smoothness with a **dual-camera architecture** on Hi35XX chip.. Our hand pose estimation achieved performance comparable to Google MediaPipe and Meta U-Track while maintaining a significantly lighter-weight model. We also applied human pose estimation to smart cameras for applications such as **elderly fall detection**, as well as to smart TVs for **fitness and body-motion applications**.
+We developed a robust **single-camera HMI system** and further improved its robustness and smoothness with a **dual-camera architecture** on Hi35XX chip. Our hand pose estimation achieved performance comparable to Google MediaPipe and Meta U-Track while maintaining a significantly lighter-weight model, owning to our edge-based model design，loss function design and Cross-temporal Stability Learning，the In-house Gesture Data Collection and Synthetic Data Generation Systems. We also applied human pose estimation to smart cameras for applications such as **elderly fall detection**, as well as to smart TVs for **fitness and body-motion applications**.
 We also developed a dual-camera architecture for HMI system in XR on Hi35xx chip.
 
 **2020 – Present**
