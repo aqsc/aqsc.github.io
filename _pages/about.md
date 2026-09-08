@@ -109,7 +109,74 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
 
 
 
+
 # News
+
+
+**2024.07 – Present**
+Focus on **3D scene understanding and interaction** for embodied intelligence, with an emphasis on **robotic grasping and assembly**. We are also developing our first robotic product, bringing research from 3D perception and scene understanding toward real-world robotic applications.
+
+**2024.07 – Present**
+Focus on **low-level frame super-resolution algorithms** for high-quality image enhancement, as well as **real-time video super-resolution (VSR)** for high-quality video enhancement and streaming applications.
+
+**Jan. 2022 – Present**
+Lead projects and teams in **3D scene reconstruction**, including **NeRF-based methods, 3D Gaussian Splatting (3DGS), and graph learning**, with applications in smart factories and 3D spatial intelligence.
+
+**Jan. 2022 – Present**
+Conduct research on **Differentiable ISP** and **Differentiable Computer Vision (CV)**. Design **on-chip hardware ISP architectures** with highly competitive area and performance. By combining differentiable ISP and CV, we aim to address challenging visual scenarios and achieve more robust and accurate visual perception. Also lead projects on **hardware design and acceleration for edge-based SLAM**.
+
+**Jan. 2022 – Present**
+Focus on **AI model efficiency and lightweight model technologies**, including **Neural Architecture Search (NAS), knowledge distillation, quantization, few-shot learning, and semi-supervised learning**. Explore these techniques across diverse applications and continuously develop expertise in general-purpose AI algorithms.
+
+**Jan. 2020 – Jun. 2024**
+Lead projects and teams in **ADAS**, covering algorithm development, data systems, and product deployment. Successfully productized and deployed a suite of algorithms on **HiSilicon chips**, including **3D obstacle detection in BEV, HD map construction, lane topology learning, and general obstacle detection (occupancy)**. These solutions were successfully deployed across multiple production vehicle models and gained strong recognition from major customers.
+
+**Jan. 2022 – 2023**
+Focus on **touch-screen algorithms and signal processing**, including **SIN/COS demodulation, TDM/CDM matrix processing, CIC and FIR filtering, and IQ processing**, with the goal of improving SNR and overall system performance for HiSilicon/Huawei products. Developed solutions that achieved **competitive performance and efficiency compared with industry-leading solutions from Microsoft and Samsung**.
+
+**2020 – Present**
+Focus on the development of the **Da Vinci NPU architecture**, while exploring algorithms, operator implementations, and product applications built on the Da Vinci platform.
+
+**2020 – Present**
+Focus on **SoC architecture and system-level application design**, covering key subsystems including **ISP, DPU, CPU, CV accelerators, NPU, DSP, memory, and system interconnects**. Explore hardware-software co-design and system-level optimization to improve overall performance, efficiency, and product competitiveness.
+
+**Jan. 2020 – 2022**
+Led projects and teams on **human-machine interaction (HMI)** for XR, smart TV, and smart camera products. These technologies were successfully deployed in products including Huawei Smart TV and XR devices.
+
+Developed a robust **single-camera HMI system** on the Hi35xx platform and further enhanced robustness and smoothness through a **dual-camera architecture** for XR applications. Our hand pose estimation achieved performance comparable to **Google MediaPipe and Meta U-Track**, while using significantly lighter-weight models through **edge-oriented model design, task-specific loss functions, and cross-temporal stability learning**.
+
+We also developed **in-house gesture data collection and synthetic data generation systems** to improve data efficiency and model robustness. Human pose estimation was further applied to smart cameras for **elderly fall detection** and to smart TVs for **fitness and body-motion applications**.
+
+**Aug. 2019 – 2022**
+Led projects and teams on **object detection and recognition, semantic segmentation, and instance segmentation** for consumer products across a range of edge AI chips, including but not limited to **Hi3796CV300, Hi3556V200, Hi3519AV100, Hi3516DV300, and Hi3559AV**.
+
+**Oct. 2017 – Aug. 2019**
+Worked on **pedestrian detection, face detection, and face recognition** for smart security cameras based on **Hi3516EV200, Hi3516EV300, and Hi3518EV300**. We were among the early pioneers in deploying AI networks directly on edge chips for intelligent security applications.
+
+Our algorithms achieved **industry-leading performance** and contributed to the products' leading positions in the global market. The resulting chips and algorithms were widely adopted by major customers, including **Huawei, Hikvision, Dahua, Uniview, Infinova, and Topsee**, demonstrating strong industry and customer recognition.
+
+**Jun. – Oct. 2018**
+Worked on **motion estimation and object detection**, as well as the development of a **mixed-bit quantization method**, achieving real-time inference at approximately **30 FPS** on Hi3516EV100 and Hi3559AV100.
+
+**May 2017 – Jun. 2018**
+Worked on **pedestrian, face, and vehicle detection**, as well as **CPL recognition and detection**, to validate and benchmark our self-designed **NPU architecture**.
+
+**May 2016 – Feb. 2019**
+Focused on the development of the **Wukong NPU Platform**, including **operator adaptation, operator porting, and hardware acceleration optimization**, with support for **Caffe inference**. The platform was developed as one of the **industry's early dedicated AI accelerator platforms** and was successfully adopted by major customers in China and overseas.
+
+Also developed **non-linear quantization methods** for the Wukong NPU, covering both **post-training quantization** and **online quantization** approaches.
+
+**Apr. 2016 – Jun. 30, 2017**
+Our research on **“Self-Supporting Frame Structures”** was accepted to **SMI 2017**.
+
+**Apr. 2015 – May 27, 2017**
+Our research on **“Cross-Section-Based Hollowing and Structural Enhancement”** was accepted to **CGI 2017**.
+
+**2012 – 2017**
+Conducted mathematical research in **optimization methods and machine learning**, building a strong foundation in **mathematical modeling, optimization theory, and machine learning algorithms**.
+
+
+-------------------
 
 **2024.07 – Present**
 Focus on **3D scene understanding & interaction** for embodied intelligence. We are also working toward the release of our first robotic product. Grasp & Assembly. Exciting things are coming!
