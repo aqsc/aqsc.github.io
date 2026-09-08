@@ -136,18 +136,20 @@ We have successfully productized and deployed a suite of algorithms **3D obstacl
 **Jan. 2022 – 2023**
 Focus on **touch-screen algorithms and signal processing**, including SIN/COS demodulation, TDM/CDM matrix processing, CIC and FIR filtering, and IQ processing, with the goal of improving SNR performance for HiSilicon/Huawei products. We have surpassesed Microsoft and Samsung in both performance and efficiency.
 
-**Jan. 2020 – 2022**
-Led projects and teams on **human-machine interaction (HMI)** for XR, smart TV, and smart camera products. These technologies have been deployed in products including Huawei Smart TV and XR devices.
-
-We developed a robust **single-camera HMI system** and further improved its robustness and smoothness with a **dual-camera architecture** on Hi35XX chip. Our hand pose estimation achieved performance comparable to Google MediaPipe and Meta U-Track while maintaining a significantly lighter-weight model, owning to our edge-based model design，loss function design and Cross-temporal Stability Learning，the In-house Gesture Data Collection and Synthetic Data Generation Systems. We also applied human pose estimation to smart cameras for applications such as **elderly fall detection**, as well as to smart TVs for **fitness and body-motion applications**.
-We also developed a dual-camera architecture for HMI system in XR on Hi35xx chip.
 
 **2020 – Present**
 Focus on the development of the **Da Vinci NPU architecture**, while exploring algorithms and product applications built on the Da Vinci platform. More details to come.
 
 Focus on the development of the "SOC architecture and application", including the subsystems like isp, dpu, cpu, CV, NPU, DSP, memory and so on.
 
-**Aug. 2019 – Present**
+**Jan. 2020 – 2022**
+Led projects and teams on **human-machine interaction (HMI)** for XR, smart TV, and smart camera products. These technologies have been deployed in products including Huawei Smart TV and XR devices.
+
+We developed a robust **single-camera HMI system** and further improved its robustness and smoothness with a **dual-camera architecture** on Hi35XX chip. Our hand pose estimation achieved performance comparable to Google MediaPipe and Meta U-Track while maintaining a significantly lighter-weight model, owning to our edge-based model design，loss function design and Cross-temporal Stability Learning，the In-house Gesture Data Collection and Synthetic Data Generation Systems. We also applied human pose estimation to smart cameras for applications such as **elderly fall detection**, as well as to smart TVs for **fitness and body-motion applications**.
+We also developed a dual-camera architecture for HMI system in XR on Hi35xx chip.
+
+
+**Aug. 2019 – 2022**
 Lead projects and teams on **object detection and recognition, semantic segmentation, and instance segmentation** for consumer products across a series of edge AI chips, including but not limited to **HI3796CV300, Hi3556V200, Hi3519AV100, Hi3516DV300, and Hi3559AV**.
 
 **Oct. 2017 – Aug. 2019**
@@ -156,13 +158,13 @@ Worked on **pedestrian detection and face detection and recognition** for smart 
 Our algorithms achieved industry-leading performance and helped drive these products to leading positions in the global market. The resulting chips and algorithms were widely adopted by customers including **Huawei, Hikvision, Dahua, Uniview, Infinova, and Topsee**. It was particularly rewarding to see the technology widely recognized and adopted by customers worldwide.
 
 **Jun. – Oct. 2018**
-Worked on **motion estimation and object recognition**, as well as the development of a **mixed-bit quantization method**, achieving real-time inference at approximately **30 FPS** on Hi3516EV100 and Hi3559AV100.
+Worked on **motion estimation and object detection**, as well as the development of a **mixed-bit quantization method**, achieving real-time inference at approximately **30 FPS** on Hi3516EV100 and Hi3559AV100, developed .
 
 **May 2017 – Jun. 2018**
-Worked on **pedestrian, face, and vehicle detection**, as well as **CPL recognition and detection**.
+Worked on **pedestrian, face, and vehicle detection**, as well as **CPL recognition and detection** used to verify our self-designed NPU architure.
 
-**May 2017 – Feb. 2019**
-Focused on the development of the **Wukong NPU Platform**, including Caffe inference support. We also developed **non-linear quantization methods** for the Wukong NPU, covering both **post-training quantization** and **online quantization** approaches.
+**May 2016 – Feb. 2019**
+Focused on the development of the **Wukong NPU Platform**, including Operator Adaptation and Acceleration Optimization，Caffe inference support, which is one of **the industry's first dedicated AI chips**，successfully promoted and adopted by major customers in China and overseas. We also developed **non-linear quantization methods** for the Wukong NPU, covering both **post-training quantization** and **online quantization** approaches.
 
 **Apr. 2016 – Jun. 30, 2017**
 Our work on **“Self-Supporting Frame Structures”** was accepted to **SMI 2017**.
