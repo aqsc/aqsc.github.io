@@ -112,21 +112,26 @@ Dr. Sicheng Qian, dedicated in COMPUTER VISOIN AND SHAPE UNDERSTANDING. xxxxxx. 
 # News
 
 **2024.07 – Present**
-We focus on **frame super-resolution algorithms** for high-quality image enhancement, as well as **3D scene interaction and understanding** for embodied intelligence.
+Focus on **3D scene understanding & interaction** for embodied intelligence. We are also working toward the release of our first robotic product. Grasp & Assembly. Exciting things are coming!
+
+**2024.07 – Present**
+Focus on low-level **frame super-resolution algorithms** for high-quality image enhancement.
+Focus on low-level **Real-time Video Super-Resolution** for high-quality videa enhancement.
 
 **Jan. 2022 – Present**
-Lead projects and teams in **3D scene reconstruction**, including NeRF-based learning, 3D Gaussian Splatting (3DGS), and graph learning for smart factory applications. We are also working toward the release of our first robotic product. Exciting things are coming!
+Lead projects and teams on **3D scene reconstruction**, including NeRF-based learning, 3D Gaussian Splatting (3DGS), and graph learning for smart factory applications. 
 
 **Jan. 2022 – Present**
 Conduct research on **Differentiable ISP** and **Differentiable Computer Vision (CV)**. We also design **on-chip hardware ISPs** with highly competitive area and performance. By combining differentiable ISP and CV, we aim to tackle challenging visual scenarios and achieve more robust and accurate visual perception.
+Lead projects on hardware design for edge-based SLAM.
 
 **Jan. 2022 – Present**
 Focus on **model efficiency and lightweight AI techniques**, including Neural Architecture Search (NAS), knowledge distillation, quantization, and few-shot/semi-supervised learning. We explore these techniques across a broad range of applications and continuously build expertise in general-purpose AI algorithms.
 
-**Jan. 2022 – Present**
+**Jan. 2022 – Jun. 2024**
 Lead projects and teams on **3D obstacle detection in BEV**, **HD map construction**, **lane topology learning**, and **general obstacle detection (occupancy)** for Autonomous Driving Systems (ADS) on HISI 310, 610 chip.
 
-**Jan. 2022 – Present**
+**Jan. 2022 – 2023**
 Focus on **touch-screen algorithms and signal processing**, including SIN/COS demodulation, TDM/CDM matrix processing, CIC and FIR filtering, and IQ processing, with the goal of improving SNR performance for HiSilicon/Huawei products.
 
 **Jan. 2020 – 2022**
@@ -137,6 +142,7 @@ We also developed a dual-camera architecture for HMI system in XR on Hi35xx chip
 
 **2020 – Present**
 Focus on the development of the **Da Vinci NPU architecture**, while exploring algorithms and product applications built on the Da Vinci platform. More details to come.
+Focus on the development of the "SOC architecture and application", including the subsystems like isp, dpu, cpu, CV, NPU, DSP, memory and so on.
 
 **Aug. 2019 – Present**
 Lead projects and teams on **object detection and recognition, semantic segmentation, and instance segmentation** for consumer products across a series of edge AI chips, including but not limited to **HI3796CV300, Hi3556V200, Hi3519AV100, Hi3516DV300, and Hi3559AV**.
