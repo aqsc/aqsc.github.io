@@ -128,11 +128,13 @@ Lead projects on hardware design for edge-based SLAM.
 **Jan. 2022 – Present**
 Focus on **model efficiency and lightweight AI techniques**, including Neural Architecture Search (NAS), knowledge distillation, quantization, and few-shot/semi-supervised learning. We explore these techniques across a broad range of applications and continuously build expertise in general-purpose AI algorithms.
 
-**Jan. 2022 – Jun. 2024**
-Lead projects and teams on **3D obstacle detection in BEV**, **HD map construction**, **lane topology learning**, and **general obstacle detection (occupancy)** for Autonomous Driving Systems (ADS) on HISI 310, 610 chip.
+**Jan. 2020 – Jun. 2024**
+Lead projects and teams on ADAS, including algorithms, data. 
+
+We have successfully productized and deployed a suite of algorithms **3D obstacle detection in BEV**, **HD map construction**, **lane topology learning**, and **general obstacle detection (occupancy)** for Autonomous Driving Systems (ADS) on  on HiSilicon chips, enabling their deployment across multiple production vehicle models and earning strong customer recognition.
 
 **Jan. 2022 – 2023**
-Focus on **touch-screen algorithms and signal processing**, including SIN/COS demodulation, TDM/CDM matrix processing, CIC and FIR filtering, and IQ processing, with the goal of improving SNR performance for HiSilicon/Huawei products.
+Focus on **touch-screen algorithms and signal processing**, including SIN/COS demodulation, TDM/CDM matrix processing, CIC and FIR filtering, and IQ processing, with the goal of improving SNR performance for HiSilicon/Huawei products. We have surpassesed Microsoft and Samsung in both performance and efficiency.
 
 **Jan. 2020 – 2022**
 Led projects and teams on **human-machine interaction (HMI)** for XR, smart TV, and smart camera products. These technologies have been deployed in products including Huawei Smart TV and XR devices.
@@ -142,6 +144,7 @@ We also developed a dual-camera architecture for HMI system in XR on Hi35xx chip
 
 **2020 – Present**
 Focus on the development of the **Da Vinci NPU architecture**, while exploring algorithms and product applications built on the Da Vinci platform. More details to come.
+
 Focus on the development of the "SOC architecture and application", including the subsystems like isp, dpu, cpu, CV, NPU, DSP, memory and so on.
 
 **Aug. 2019 – Present**
